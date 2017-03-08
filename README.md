@@ -1,6 +1,6 @@
-# Hello World Web Page
-### Repository for VWC classwork
+# VWC Repository
+### VWC Classwork 
 
-This is a webpage that tells the world, **"Hello!"**
+This is a webpage that tells you a little about **Carl!**
 
-It might be [this link](www.helloworld.com), but I don't know.
+It might be [this link](www.youtube.com), but probably not.
