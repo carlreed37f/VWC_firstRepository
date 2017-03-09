@@ -1,6 +1,5 @@
-# VWC Repository
-### VWC Classwork 
+# VWC Repository Read Me
 
-This is a webpage that tells you a little about **Carl!**
+### About Me Webpage 
 
-It might be [this link](www.youtube.com), but probably not.
+This is a webpage that tells you a little about **Carl**.
