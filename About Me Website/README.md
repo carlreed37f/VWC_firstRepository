@@ -1,9 +1,19 @@
-# Portfolio Epic
+# Online Portfolio
 
 ### About Me Website
 
 Create a website showcasing my abilities and personality to potential employers and clients through the use of the latest technologies.
 The goal of this website is to give the user a simple, friendly, fun, and captivating way to glimpse into my abilities and personality, which will in turn lead to employment inshallah.
+
+#### Epic
+**User** | **Needs** | **Reason**
+--- | --- | ---
+Employer | Easily accessible media | Less time looking for portfolio content
+Employer | Animation | Shows higher skill level, and keeps interest in the page
+Employer | Accessible contact info | Lets user contact for employment while still stimulated by portfolio
+Employer | Access to Bio/Social Media | To see if I would fit in their work culture
+Employer | Access to LinkdIn/Resume | To check employment history and education credentials
+Employer | Simplicity | Directs user to the pertinent parts of website, without confusing them
 
 #### Goals/Tasks
 1. Conceptualize desired effect, create list of intended outcomes
