@@ -1,0 +1,273 @@
+/*
+=================
+TYPOGRAPHY
+=================
+*/
+body {
+  color: #0DB2AF;
+  font-family: 'Fresca', sans-serif;
+  -webkit-text-stroke: 1px black;
+}
+
+.shadow {
+  text-shadow:
+     3px 3px 0 #000,
+   -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+     1px 1px 0 #000;
+}
+
+.shadow-inverse {
+  text-shadow:
+     3px 3px 0 #0DB2AF,
+   -1px -1px 0 #0DB2AF,
+    1px -1px 0 #0DB2AF,
+    -1px 1px 0 #0DB2AF,
+     1px 1px 0 #0DB2AF;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  text-align: center;
+}
+
+h1 {
+  font-size: 72px;
+}
+
+h2 {
+  font-size: 45px;
+}
+
+h3 {
+  font-size: 36px;
+}
+
+a {
+  color: inherit;
+}
+
+/*
+=======================
+NAVIGATION
+=======================
+*/
+
+.navbar-default .navbar-nav>li>a {
+  color: #000000;
+}
+
+.navbar-default .navbar-brand {
+  color: #000000;
+}
+
+.navbar-default {
+  background-color: #0DB2AF;
+}
+
+.navbar {
+  margin-bottom: 0px;
+  padding: 5px 15px;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+}
+
+/*
+===========================
+SECTIONS
+===========================
+*/
+
+.fill-screen {
+  background-size: cover;
+  background-position: center;
+}
+
+.fill-screen-alt {
+  background-position: center;
+}
+
+.portrait {
+  padding-top: 85px;
+}
+
+.portrait img {
+  border-radius: 50%;
+  border: 8px solid #0DB2AF;
+  box-shadow:
+    3px 3px 0 #000,
+  -1px -1px 0 #000,
+   1px -1px 0 #000,
+   -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
+
+.teasers {
+  border-radius: 50%;
+}
+
+.title {
+  color: #0DB2AF;
+  font-family: 'Fresca', sans-serif;
+  -webkit-text-stroke: 1px black;
+  text-shadow:
+     3px 3px 0 #000,
+   -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+     1px 1px 0 #000;
+}
+
+.intro {
+  color: #000000;
+  background: linear-gradient(#BFBFBF, #ffffff);
+}
+
+.projects {
+  background: linear-gradient(#ffffff, #B2480D);
+}
+
+.black {
+  color: #000000;
+}
+
+.green {
+  color: #0DB2AF;
+}
+.backstory {
+  color: #ffffff;
+  background: linear-gradient(#B2480D, #BFBFBF);
+}
+
+.backstory-title {
+  color: #000000;
+  background-image: url("../assets/pictures/ocp.jpg");
+  background-attachment: fixed;
+  border: 3px inset #666;
+  border-radius: 15px;
+}
+
+.pic-plaque {
+  border: 3px outset #666;
+  border-radius: 50%;
+}
+
+.music {
+  color:#B2480D;
+  background: linear-gradient(#BFBFBF, #ffffff);
+}
+
+.music-title {
+  background-image: url("../assets/pictures/rocknroll.jpg");
+  background-attachment: fixed;
+  border: 3px inset #666;
+  border-radius: 15px;
+}
+
+.spotlight {
+  background-color: rgba(255,255,200,.1);
+  border-radius: 50%;
+}
+
+.arrow1 {
+  text-align: center;
+  transform: rotate(200deg);
+}
+
+.arrow2 {
+  text-align: center;
+  transform: rotate(160deg);
+}
+
+.content {
+  color: #ffffff;
+  background-image: url("../assets/pictures/background.jpg");
+  border: 3px outset #046564;
+  border-radius: 15px;
+  font-family: 'Fresca', sans-serif;
+  -webkit-text-stroke: 1px black;
+  text-shadow:
+     3px 3px 0 #000,
+   -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+     1px 1px 0 #000;
+}
+
+.content-title {
+  color: #0DB2AF;
+}
+
+.content2 {
+  color: #FED506;
+  background-image: url("../assets/pictures/ocp.jpg");
+  background-attachment: fixed;
+  border: 5px inset #7F7F7F;
+  border-radius: 15px;
+  font-family: 'Fresca', sans-serif;
+  -webkit-text-stroke: 1px black;
+  text-shadow:
+     3px 3px 0 #000,
+   -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+     1px 1px 0 #000;
+}
+
+.content2-1 {
+  color: #FED506;
+}
+
+.content3 {
+  color: #B2480D;
+  background-image: url("../assets/pictures/rocknroll.jpg");
+  background-attachment: fixed;
+  border: 5px inset #7F7F7F;
+  border-radius: 15px;
+  font-family: 'Fresca', sans-serif;
+  -webkit-text-stroke: 1px black;
+  text-shadow:
+     3px 3px 0 #000,
+   -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+     1px 1px 0 #000;
+
+}
+
+.content3-1 {
+  color: #B2480D;
+}
+
+.content-filler {
+  max-height: 350px;
+}
+
+.content-filler2 {
+  background-image: url("../assets/pictures/acu.gif");
+}
+
+.content-filler3 {
+  background-image: url("../assets/pictures/sheetmusic.jpg");
+  background-image: repeat;
+}
+
+.icon {
+  font-size: 80px;
+  padding-top: 3px;
+  border-top: 5px ridge #0DB2AF;
+}
+
+.fixed-attachment {
+  background-attachment: fixed;
+  padding-top: 85px;
+}
+
+footer {
+}
+
+footer p {
+  font-weight: 300;
+  font-size: 12px;
+
+}
